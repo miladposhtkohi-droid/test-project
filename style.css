@@ -13,4 +13,6 @@ body{
     align-items: center;
     height: 100vh;
     background-color: blue;
+    font-size: 15px;
+    color: red;
 }
